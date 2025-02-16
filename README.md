@@ -17,10 +17,11 @@ It reads motion data (Delta X, Delta Y) and prints it to the serial monitor.
 ## Wiring Guide
 | ADNS-5020-EN | Arduino Zero |
 |--------------|--------------|
-| SCLK         | **SCK (PB11)** |
-| SDIO         | **MOSI/MISO (PD10)** |
-| NCS          | **D10** |
-| RESET        | **D9** |
+| NCS          | **PIN10** |
+| SCLK         | **PIN13** |
+| SDIO         | **PIN11** |
+| RESET        | **PIN12** |
+
 | GND          | **GND** |
 | VDD (5V)     | **5V** |
 
