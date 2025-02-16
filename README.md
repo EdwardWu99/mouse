@@ -20,6 +20,5 @@ It reads motion data (Delta X, Delta Y) and prints it to the serial monitor.
 | SCLK         | **PIN13** |
 | SDIO         | **PIN11** |
 | RESET        | **PIN12** |
-
 | GND          | **GND** |
 | VDD (5V)     | **5V** |
