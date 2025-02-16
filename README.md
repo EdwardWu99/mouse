@@ -11,9 +11,8 @@ It reads motion data (Delta X, Delta Y) and prints it to the serial monitor.
 
 ## Hardware Requirements
 - **Arduino Zero**
-- **ADNS-5020-EN sensor**
-- Jumper wires
-
+- **A mouse with ADNS-5020-EN sensor**
+  
 ## Wiring Guide
 | ADNS-5020-EN | Arduino Zero |
 |--------------|--------------|
@@ -24,9 +23,3 @@ It reads motion data (Delta X, Delta Y) and prints it to the serial monitor.
 
 | GND          | **GND** |
 | VDD (5V)     | **5V** |
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/adns5020-arduino.git
-   cd adns5020-arduino
